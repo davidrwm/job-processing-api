@@ -147,3 +147,9 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Prisma generated files
+src/generated/prisma
+
+storage/
+coverage/
