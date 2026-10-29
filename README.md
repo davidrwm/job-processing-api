@@ -2,7 +2,7 @@
 
 A background job processing REST API built with **Node.js, Express, PostgreSQL, and Prisma**. TaskFlow allows clients to submit jobs for asynchronous processing, schedule execution, track job status, and retry failed jobs.
 
-The project uses PostgreSQL as its job queue backend and is designed to explore core background-processing concepts before a future migration to BullMQ and Redis.
+The project uses PostgreSQL as its job queue backend and is designed to explore core background-processing concepts.
 
 ## Features
 
